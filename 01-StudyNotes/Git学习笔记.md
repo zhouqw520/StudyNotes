@@ -1,4 +1,4 @@
-![avator](..\02 附件资料\00-logo\个人logo.png)
+![avator](https://github.com/zhouqw520/StudyNotes/blob/master/02-Images/00-logo/个人logo.png)
 
 # Git学习笔记
 
@@ -14,9 +14,9 @@
 
 ​        **svn与git流程比较：**
 
-​        ![avator](..\02 附件资料\01-git\svn.png)
+​        ![avator](https://github.com/zhouqw520/StudyNotes/blob/master/02-Images/01-git/svn.png)
 
-​         ![avator](..\02 附件资料\01-git\git.png)
+​         ![avator](https://github.com/zhouqw520/StudyNotes/blob/master/02-Images/01-git/git.png)
 
 ## 二、常用命令
 
@@ -42,7 +42,7 @@
 
 ​		    测试SSH连通性，[git@github.com](mailto:git@github.com)为固定写法不可变更。
 
-​		    ![](../02 附件资料/01-git/ssh -T.png)
+​		    ![](https://github.com/zhouqw520/StudyNotes/blob/master/02-Images/01-git/ssh-T.png)
 
 ​          （4）ssh-keygen -t rsa -C <邮箱地址>
 
@@ -70,13 +70,13 @@
 
 ​		    远程项目进行关联	
 
-​                    ![avatar](..\02 附件资料\01-git\git-remote.png)
+​                    ![avatar](https://github.com/zhouqw520/StudyNotes/blob/master/02-Images/01-git/git-remote.png)
 
 ​		   git remote add <远程地址别名> <远程地址>
 
 ​	  （8）git remote -v
 
-​                   ![avatar](..\02 附件资料\01-git\git-remote-v.png)
+​                   ![avatar](https://github.com/zhouqw520/StudyNotes/blob/master/02-Images/01-git/git-remote-v.png)
 
 ​	  （9）git log --graph
 
@@ -104,7 +104,7 @@
 
 ​	  （20）git rebase
 
-​                      ![](..\02 附件资料\01-git\merge_rebase.png)
+​                      ![](https://github.com/zhouqw520/StudyNotes/blob/master/02-Images/01-git/merge_rebase.png)
 
 ​	  （21）git tag
 
@@ -116,7 +116,7 @@
 
 2、git工作流程：
 
-​      ![avator](..\02 附件资料\01-git\git_directory.png)
+​      ![avator](https://github.com/zhouqw520/StudyNotes/blob/master/02-Images/01-git/git_directory.png)
 
 ​      Working Directory-->Staging Area-->.git Directory
 
@@ -146,4 +146,4 @@
 
 流程图：
 
-![](..\02 附件资料\01-git\git_flow.png)
+![](https://github.com/zhouqw520/StudyNotes/blob/master/02-Images/01-git/git_flow.png)
