@@ -2,6 +2,8 @@
 
 # Git学习笔记
 
+[TOC]
+
 ## 一、git与svn的区别
 
 ​	svn只存储变化，git存储所有包括文件与更新记录
@@ -60,7 +62,13 @@
 
 ​	  （3）touch a.txt
 
-​          （4）git log --graph
+​          （4）git log
+
+​		    git log --graph
+
+​                    git log --pretty=oneline
+
+​                    git log --oneline
 
 ​	  （5）git remote
 
@@ -110,6 +118,18 @@
 
 ​    		      版本
 
+​	  （22）git reset
+
+​		      1>git reset --soft
+
+​                      2>git reset --mixed
+
+​                      3>git reset --head
+
+​                           git reset --head HEAD^
+
+​         （23）git reflog
+
 ## 三、知识点总结
 
 1、.git为本地仓库；
@@ -135,6 +155,14 @@
 ​      master-->checkout-->
 
 ​      开发分支（development）、提测分支（test）、回归分支（release）
+
+5、HEAD、master与branch
+
+​      HEAD：当前commit的引用；
+
+​      branch：对commit的引用；
+
+​      master：默认branch。
 
 ## 四、场景处理
 
