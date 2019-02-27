@@ -2,7 +2,7 @@
 
 ![avator](../02-Images/00-logo/个人logo.png)
 
-# IntelliJ IDEA学习笔记
+# 工程化专题-IntelliJ IDEA
 
 [TOC]
 
